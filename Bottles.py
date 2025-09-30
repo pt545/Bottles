@@ -1,4 +1,4 @@
-bottles = 10
+bottles = 20
 
 while bottles > 0:
     print(bottles, "green bottles hanging on the wall,")
